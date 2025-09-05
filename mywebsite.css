@@ -4,16 +4,6 @@ h1{
     font-size:40px;
     text-align:center;
   }
-.navbar-brand{
-    font-size:2rem;
-}
-
-
-.nav-link{
-    font-size: 1.5rem;
-    color: black;
-
-}
   .left{
     float:left;
     
@@ -39,4 +29,5 @@ h1{
 
     text-align: center;
   }
+
 
